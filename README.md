@@ -1,31 +1,71 @@
-# Data Analytics Internship – Task 4
+# 📊 Data Analytics Internship Portfolio
 
-This repository contains the deliverables for **Task 4: Data Storytelling & Statistical Validation** as part of my Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
-
-## 📊 Project Objective
-The objective of this task is to transform analytical findings into a clear and compelling data story, while validating key insights using simple statistical reasoning.
-
-## 📁 Project Deliverables
-- 📌 Presentation (PowerPoint) showcasing analysis and insights  
-- 📌 Data storytelling based on the Netflix dataset  
-
-## 🔍 Key Insights
-- Movies significantly outnumber TV Shows on Netflix  
-- A substantial increase in content production is observed after 2015  
-- Drama is identified as the most dominant genre  
-- The United States contributes the largest share of content  
-
-## 📈 Statistical Validation
-A comparative analysis shows that:
-- Movies: 6131  
-- TV Shows: 2676  
-
-Movies are more than double the number of TV Shows, indicating a strong emphasis on movie content within the platform.
-
-## 🎯 Outcome
-This task enhanced my ability to:
-- Communicate insights effectively through storytelling  
-- Apply basic statistical reasoning to support conclusions  
-- Present data-driven findings in a structured and professional manner  
+## 👩‍💻 About Me
+Hi, I’m **T. Pallavi**, a Data Analytics Intern at ApexPlanet Software Pvt. Ltd.  
+This portfolio showcases my work completed during a 60-day internship program, covering the complete data analytics workflow.
 
 ---
+
+## 🚀 Internship Overview
+During this internship, I worked on real-world data and developed skills in:
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Dashboarding  
+- Data Storytelling & Statistical Validation  
+
+---
+
+## 📁 Projects / Tasks
+
+### 🔹 Task 1: Data Immersion & Wrangling
+- Cleaned and prepared dataset for analysis  
+- Handled missing values and inconsistencies  
+
+🔗 [View Project](https://github.com/PallaviTangala/Data-Analytics-Internship-Task1)
+
+---
+
+### 🔹 Task 2: Exploratory Data Analysis
+- Performed data analysis to identify patterns and trends  
+- Created visualizations for better understanding  
+
+🔗 [View Project](https://github.com/PallaviTangala/Data-Analytics-Internship-Task2)
+
+---
+
+### 🔹 Task 3: Interactive Dashboard (Power BI)
+- Built an interactive dashboard  
+- Visualized KPIs and insights  
+
+🔗 [View Project](https://github.com/PallaviTangala/Data-Analytics-Internship-Task3)
+
+---
+
+### 🔹 Task 4: Data Storytelling & Statistical Validation
+- Presented insights using storytelling  
+- Applied statistical reasoning  
+
+🔗 [View Project](https://github.com/PallaviTangala/Data-Analytics-Internship-Task4)
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI  
+- Microsoft Excel  
+
+---
+
+## 📈 Key Learnings
+- Data cleaning and preprocessing  
+- Data visualization and dashboard creation  
+- Data storytelling and insight generation  
+- Basic statistical validation  
+
+---
+
+## 🎯 Conclusion
+This internship helped me gain hands-on experience in data analytics and improved my ability to analyze and present data effectively.
+
+---
+
+⭐ Thank you for visiting my portfolio!
